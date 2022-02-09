@@ -22,7 +22,7 @@
     <v-toolbar color="pink lighten-4" dark>
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
-      <v-toolbar-title>TODO</v-toolbar-title>
+      <v-toolbar-title>TO DO</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
